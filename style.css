@@ -1,0 +1,82 @@
+body{
+  text-align: center;
+}
+.top-container {
+  
+  background-color:#FFA41B;
+  position: relative;
+  padding-top: 100px;
+}
+h1
+{
+   font-family: 'Mooli', sans-serif;
+   color: #525FE1;
+
+}
+h2{
+ font-family:'Slabo 27px', serif;
+ font-size: 2.5rem;
+ font-weight: normal;
+ padding-bottom: 10px;
+ color: #525FE1;
+}
+.top-section{
+  margin: 0;
+  padding: 0;
+}
+.top-www{
+  position: absolute;
+  right:300px;
+  top:40px;
+}
+.bottom-www{
+  position: absolute;
+  left: 250px;
+  bottom: 300px;
+}
+.pro{
+  text-decoration: underline;
+}
+.prof-img{
+  height: 200px;
+  border-radius: 50%;
+}
+hr{
+  border: dotted #F86F03;
+  border-bottom: none;
+  width: 4%;
+  margin: 100px auto;
+}
+.skill-img{
+  background-color: white;
+}
+.skill-color{
+  color: #525FE1;
+}
+.skill-title{
+  color: #F86F03;
+}
+.btn{
+  background-color: #FFA41B;
+  color: #525FE1;
+}
+.btn:hover{
+  background-color: #FFA41B;
+  text-decoration: none;
+}
+.contact-link {
+  color: #525FE1;
+  font-family: "Montserrat", sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+.contact-link:hover {
+  color:beige;
+}
+.bottom-container{
+  background-color: #FFA41B;
+}
+.copywright{
+  color:#F86F03;
+}
+
